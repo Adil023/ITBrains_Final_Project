@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ITBrains_Final_Project/static/css/main.041d72a7.css",
+    "main.js": "/ITBrains_Final_Project/static/js/main.16b98fb6.js",
+    "static/media/Impactful.png": "/ITBrains_Final_Project/static/media/Impactful.42f1c2af1955ad18572f.png",
+    "static/media/Acces.png": "/ITBrains_Final_Project/static/media/Acces.f31b1add6209b06c8f1c.png",
+    "static/media/ManagerUser.png": "/ITBrains_Final_Project/static/media/ManagerUser.91b16b061a1be972c4c9.png",
+    "static/media/flipcard.png": "/ITBrains_Final_Project/static/media/flipcard.cdd95bf15ac553a887ed.png",
+    "static/media/flipcard2.png": "/ITBrains_Final_Project/static/media/flipcard2.8f4d2df1125669590f9d.png",
+    "static/media/flipcard3.png": "/ITBrains_Final_Project/static/media/flipcard3.2c4ef012bd5a3d7cc44a.png",
+    "static/media/Colloborate.png": "/ITBrains_Final_Project/static/media/Colloborate.31d4904e10c918aca0fb.png",
+    "static/media/ThirtCard.png": "/ITBrains_Final_Project/static/media/ThirtCard.c54a3ed355e25310ed2b.png",
+    "static/media/Mario.png": "/ITBrains_Final_Project/static/media/Mario.8993781926acbc082e99.png",
+    "static/media/SecondCard.png": "/ITBrains_Final_Project/static/media/SecondCard.bc4c17c44a7a4c873f61.png",
+    "static/media/RobertMayar.png": "/ITBrains_Final_Project/static/media/RobertMayar.c784b6be011b57774844.png",
+    "index.html": "/ITBrains_Final_Project/index.html",
+    "main.041d72a7.css.map": "/ITBrains_Final_Project/static/css/main.041d72a7.css.map",
+    "main.16b98fb6.js.map": "/ITBrains_Final_Project/static/js/main.16b98fb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041d72a7.css",
+    "static/js/main.16b98fb6.js"
+  ]
+}
